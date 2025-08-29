@@ -28,5 +28,5 @@ The website features an elegant property showcase with a slider, smooth animatio
 
 🌟 Live Demo
 
-👉 EstateEx - estateex.netlify.app
+👉 EstateEx - [Live Website](https://estateex.netlify.app/)
 
